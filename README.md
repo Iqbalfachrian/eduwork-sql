@@ -11,7 +11,8 @@ SELECT name AS nama, phone AS Nomor_telepon, address AS alamat FROM users;
 
 
 ## Tugas SQL LEFT JOIN
-![left join](https://github.com/Iqbalfachrian/eduwork-sql/assets/101652940/54c6b127-2941-4fe7-bfd5-5775073031af)
+![left join](https://github.com/Iqbalfachrian/eduwork-sql/assets/101652940/44addf41-a5b4-41d7-bc93-97e6c5fd9ddb)
+
 
 
 ## Terima kasih 👏
